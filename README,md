@@ -1,0 +1,31 @@
+COVID-19 Global Data Analysis
+
+Project Overview
+This project performs Exploratory Data Analysis (EDA) on a global COVID-19 dataset.
+The objective is to analyze worldwide COVID-19 trends, identify patterns in cases and deaths, and generate meaningful insights through data visualization.
+
+Tools Used
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Google Colab
+
+Dataset
+Worldometer Coronavirus Daily Data Dataset
+
+Project Tasks
+* Data Cleaning
+* Missing Value Handling
+* Exploratory Data Analysis
+* Data Visualization
+* Insight Generation
+
+Key Findings
+* USA recorded the highest cumulative COVID-19 cases.
+* USA also recorded the highest cumulative deaths.
+* Global COVID-19 cases increased continuously throughout the pandemic.
+* Strong positive relationships exist between cases and deaths.
+* A small number of countries accounted for a large share of global cases.
+
